@@ -9,7 +9,7 @@ export const getCustomers = () => ({
 });
 
 export const fetchAndUpdateCustomers = () =>
-    async (dispatch) => fetch("http://localhost:3000/customers").then(response => response.json()).then(json => {
+    async (dispatch) => fetch(`http://localhost:3000/customers`).then(response => response.json()).then(json => {
         dispatch({
             type: UPDATE_CUSTOMERS,
             payload: json
