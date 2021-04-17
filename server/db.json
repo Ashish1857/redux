@@ -1,0 +1,75 @@
+{
+  "customers": [
+    {
+      "id": "001",
+      "name": "Ashish Anand",
+      "age": 27,
+      "sex": "Male",
+      "address":{
+          "Home": "Flat no. 402, Navi Mumbai, India",
+          "Others": "Building 6/7 DLF, Hyderabad, pincode - 500081",
+          "Office": "Tech park",
+          "Home1": "Flat no. 402, Navi Mumbai, India",
+          "Others1": "Building 6/7 DLF, Hyderabad, pincode - 500081",
+          "Office1": "Tech park"
+      }
+    },
+    {
+      "id": "002",
+      "name": "Preeti Singh",
+      "age": 25,
+      "sex": "Female",
+      "address":{
+        "Others": "Flat no. 402, Mumbai",
+        "Office": "Building 6/7 DLF, Hyderabad"
+      }
+    },
+    {
+      "id": "003",
+      "name": "Asif Faizi",
+      "age": 23,
+      "sex": "Male",
+      "address":{
+        "Home": "Flat no. 402, Mumbai",
+        "Other": "Building 6/7 DLF, Hyderabad"
+      }
+    },
+    {
+      "id": "004",
+      "name": "Aman Raj",
+      "age": 22,
+      "sex": "Male",
+      "address":null
+    },
+    {
+      "id": "005",
+      "name": "Preeti Singh",
+      "age": 25,
+      "sex": "Female",
+      "address":{
+        "Others": "Flat no. 402, Mumbai",
+        "Office": "Building 6/7 DLF, Hyderabad"
+      }
+    },
+    {
+      "id": "006",
+      "name": "Preeti Singh",
+      "age": 25,
+      "sex": "Female",
+      "address":{
+        "Others": "Flat no. 402, Mumbai",
+        "Office": "Building 6/7 DLF, Hyderabad"
+      }
+    },
+    {
+      "id": "007",
+      "name": "Vivek Singh",
+      "age": 25,
+      "sex": "male",
+      "address":{
+        "Others": "Flat no. 402, Mumbai",
+        "Office": "Building 6/7 DLF, Hyderabad"
+      }
+    }
+  ]
+}

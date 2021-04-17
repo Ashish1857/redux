@@ -1,0 +1,14 @@
+.address{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: #f9f9f9;
+    overflow: scroll;
+    height: 50vh;
+    cursor: all-scroll;
+}
+
+.card{
+    margin: 40px;
+    height: 200px;
+}
